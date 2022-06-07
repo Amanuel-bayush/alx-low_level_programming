@@ -16,7 +16,7 @@ int main(void)
 			{
 				putchar(ch);
 				putchar(n);
-				if (ch != 56 || n !=57)
+				if (ch != 56 || n != 57)
 				{
 					putchar(44);
 					putchar(32);
@@ -25,5 +25,6 @@ int main(void)
 		}
 	}
 	putchar(10); /*this is an ascii code for new line*/
+	
 	return (0);
 }
