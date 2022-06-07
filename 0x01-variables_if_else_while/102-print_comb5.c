@@ -27,6 +27,6 @@ int main(void)
 			}
 		}
 	}
-	putchart('\n');
+	putchar('\n');
 	return (0);
 }
